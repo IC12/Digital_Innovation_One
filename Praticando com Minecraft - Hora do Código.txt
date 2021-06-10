@@ -1,6 +1,4 @@
-https://studio.code.org/c/1401301819
-
-Código movimentos:
+CÃ³digo movimentos:
 
 turnLeft();
 for (var count = 0; count < 2; count++) {
