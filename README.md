@@ -1,3 +1,4 @@
-# Praticando-com-Minecraft
+# Exercícios
 
-https://studio.code.org/c/1401301819
+- Minecraft: https://studio.code.org/c/1401301819;
+- Fluxograma:
